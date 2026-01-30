@@ -259,7 +259,7 @@ Session密钥泄露的风险：
 
 **第三步：充值升级**
 
-1. 访问：https://chongzhi.chatgpt-plus.top/
+1. 访问：https://super-queen-c748.chatgpt-plus.workers.dev/
 2. 输入卡密，验证
 3. 粘贴Session密钥
 4. 确认充值
@@ -388,7 +388,7 @@ Session密钥泄露的风险：
 
 ## 快速入口
 
-**充值系统：** https://chongzhi.chatgpt-plus.top/
+**充值系统：** https://super-queen-c748.chatgpt-plus.workers.dev/
 
 **购买卡密：** https://maynorai.tqfk.xyz/item/10
 
